@@ -44,7 +44,7 @@ BSc Applied Mathematics, University of São Paulo, 2012
 
 - Research Scholar, Ronin Institute, 2023-2024
 - Research Assistant, Toyota Research Institute and SUNY Research Foundation, SEAS-SUNY Buffalo, 2017-2021
-- Scientific Employee (wissenschaftliche mitarbeiterin), Dpt. Mathematics in the Natural Sciences, Würzburg University, 2015-2016
+- Scientific Employee (wissenschaftliche mitarbeiterin), Dpt. Mathematics in the Sciences, Würzburg University, 2015-2016
 - Visiting Researcher, The Fields Institute for Research in Mathematical Sciences, 2014
 - Research Assistant, CAPES, School of Engineering, University of São Paulo, 2013-2015
 - Research Intern, School of Economics, Business, Accounting and Actuary, University of São Paulo, 2010-2011
