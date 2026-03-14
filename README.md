@@ -1,16 +1,11 @@
-
+<br>
 # Thaícia Stona de Almeida, Ph.D.
 
 <br>
 <br>
 
 <a
-  id="cy-effective-orcid-url"
-    class="underline"
-     href="[https://orcid.org/0009-0006-3295-9576](https://scholar.google.com/citations?user=2RSlU2AAAAAJ&hl=en)"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
+     href="https://orcid.org/0009-0006-3295-9576">
      <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
@@ -25,6 +20,15 @@ href="https://lattes.cnpq.br/5635119872289828">
       style="width: 3.5em; margin-inline-start: 0em"
       alt="CNPq Lattes icon"/>
 lattes.cnpq.br/5635119872289828
+</a>
+
+<a
+href="https://scholar.google.com/citations?user=2RSlU2AAAAAJ&hl=en">
+<img
+      src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+      style="width: 1.1em; margin-inline-start: 0em"
+      alt="Google Scholar icon"/>
+scholar.google.com/citations?user=2RSlU2AAAAAJ&hl=en
 </a>
 
 <br>
