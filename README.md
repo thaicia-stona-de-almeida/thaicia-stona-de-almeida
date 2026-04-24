@@ -33,6 +33,11 @@ scholar.google.com/citations?user=2RSlU2AAAAAJ&hl=en
 
 <br>
 <br>
+Owner and Strategic Investigative Consultant @CogitoQuant
+<br>
+Independent researcher @Rōnin-Ryū Protoinstitute
+<br>
+<br>
 
 PhD Materials Informatics, State University of New York at Buffalo, 2021
 
