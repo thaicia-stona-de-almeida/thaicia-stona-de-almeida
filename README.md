@@ -38,7 +38,7 @@ Owner and Strategic Investigative Consultant @CogitoQuant
 Independent researcher @Rōnin-Ryū Protoinstitute
 <br>
 <br>
-Stalk alert: report to FBI, Canadian CSIS, Interpol, CIA or Brazilian ABIN. Thank you.
+Stalk alert: report to FBI, Canadian CSIS, Interpol, CIA, Brazilian ABIN, or Russian agencies FSB or SVR. Thank you.
 <br>
 <br>
 
