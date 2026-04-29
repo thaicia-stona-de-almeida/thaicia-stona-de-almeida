@@ -38,6 +38,9 @@ Owner and Strategic Investigative Consultant @CogitoQuant
 Independent researcher @Rōnin-Ryū Protoinstitute
 <br>
 <br>
+Stalk alert: report to FBI, Canadian CSIS, Interpol, CIA or Brazilian ABIN. Thank you.
+<br>
+<br>
 
 PhD Materials Informatics, State University of New York at Buffalo, 2021
 
