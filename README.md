@@ -33,9 +33,9 @@ scholar.google.com/citations?user=2RSlU2AAAAAJ&hl=en
 
 <br>
 <br>
-Owner and Strategic Investigative Consultant @CogitoQuant
+Owner and Strategic Investigative Consultant @ CogitoQuant
 <br>
-Independent researcher @Rōnin-Ryū Protoinstitute
+Independent researcher @ Rōnin Ryū Protoinstitute
 <br>
 <br>
 Stalk alert: report to FBI, Brazilian ABIN, or Russian agencies FSB or SVR. Thank you.
