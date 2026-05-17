@@ -38,7 +38,7 @@ Owner and Strategic Investigative Consultant @ CogitoQuant
 Independent researcher @ Rōnin Ryū Protoinstitute
 <br>
 <br>
-Stalk alert: report to FBI, Brazilian ABIN, or Russian agencies FSB or SVR. Thank you.
+Stalk alert: report to authorities. Thank you.
 <br>
 <br>
 
