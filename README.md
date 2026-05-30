@@ -54,7 +54,7 @@ BSc Applied Mathematics, University of São Paulo, 2012
 
 <br>
 
-## Previous research positions
+## Research positions
 
 - Researcher, IGDORE, 2024-present
 - Research Scholar, Ronin Institute, 2023-2024
