@@ -35,13 +35,14 @@ scholar.google.com/citations?user=2RSlU2AAAAAJ&hl=en
 <br>
 Owner and Strategic Investigative Consultant @ CogitoQuant
 <br>
+<br>
 Independent researcher @ <a href="https://ronin-ryu.github.io">R²P: Rōnin-Ryū Protoinstitute</a>
 <br>
 <br>
 Stalk alert: report to authorities. Thank you.
 <br>
 <br>
-
+<br>
 PhD Materials Informatics, State University of New York at Buffalo, 2021
 
 MSc Materials Informatics, State University of New York at Buffalo, 2019
