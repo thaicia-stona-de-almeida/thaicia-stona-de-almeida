@@ -35,7 +35,7 @@ scholar.google.com/citations?user=2RSlU2AAAAAJ&hl=en
 <br>
 Owner and Strategic Investigative Consultant @ CogitoQuant
 <br>
-Independent researcher @ [Rōnin Ryū Protoinstitute](https://ronin-ryu.github.io/)
+Independent researcher @ <a href="https://ronin-ryu.github.io">R²P: Rōnin-Ryū Protoinstitute</a>
 <br>
 <br>
 Stalk alert: report to authorities. Thank you.
