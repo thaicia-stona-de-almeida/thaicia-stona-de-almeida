@@ -56,6 +56,7 @@ BSc Applied Mathematics, University of São Paulo, 2012
 
 ## Previous research positions
 
+- Researcher, IGDORE, 2024-present
 - Research Scholar, Ronin Institute, 2023-2024
 - Research Assistant, Toyota Research Institute and SUNY Research Foundation, SEAS-SUNY Buffalo, 2017-2021
 - Scientific Employee (wissenschaftliche mitarbeiterin), Dpt. Mathematics in the Sciences, Würzburg University, 2015-2016
